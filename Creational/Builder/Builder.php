@@ -2,6 +2,8 @@
 
 namespace DesignPatterns\Creational\Builder;
 
+use DesignPatterns\Creational\Builder\Parts\Vehicle;
+
 interface Builder
 {
     public function createVehicle();
