@@ -1,6 +1,6 @@
 <?php
 
-namespace Structural\Adapter;
+namespace DesignPatterns\Structural\Adapter;
 
 // 纸质书
 class PaperBook implements Book

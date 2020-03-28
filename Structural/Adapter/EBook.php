@@ -1,6 +1,6 @@
 <?php
 
-namespace Structural\Adapter;
+namespace DesignPatterns\Structural\Adapter;
 
 // 电子书
 interface EBook

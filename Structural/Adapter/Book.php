@@ -1,6 +1,6 @@
 <?php
 
-namespace Structural\Adapter;
+namespace DesignPatterns\Structural\Adapter;
 
 // 普通书
 interface Book
